@@ -1,16 +1,16 @@
- Projects em Javascript
+ Projects em React.js
 
 
-<img src="https://cdn.hackr.io/uploads/posts/large/1610440688CsnTItSOqE.png" alt="Javascript">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhackr.io%2Fblog%2Freact-projects&psig=AOvVaw18_IziXaYPh-hjA69KzTS6&ust=1673573598565000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjIsdHxwPwCFQAAAAAdAAAAABAI alt="React.js">
 
-> Basicamente esse repositorio servira como auxilio para estudos em javascript estou em faze de aprendizado na linguagem e vou estar compartilhando alguns projetos aqui!. 
+> Basicamente esse repositorio servira como auxilio para estudos em javascript/react.js estou em faze de aprendizado na linguagem e vou estar compartilhando alguns projetos para mostrar minha evolução na linguagem e na biblioteca React.js,basicamente a ideia inicial desse projeto e fazer com que adiciona-mos personagens por meio de formulario que sera preechido pelo o usuario. 
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
+- [] Tarefa 1
+- [] Tarefa 2
 - [ ] Tarefa 3
 - [ ] Tarefa 4
 - [ ] Tarefa 5
@@ -22,23 +22,19 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma máquina Windows / Linux / Mac? Todos os sistemas são compativeis.
 
 
-## 🚀 Instalando <Nome-projeto>
+## 🚀 Instalando <Hora-aventura-card-add>
 
-Para instalar o <Nome projeto>, siga estas etapas:
+Para instalar o <hora-aventura-card-add>, siga estas etapas:
 
-Linux e macOS:
-```
-git clone Repositorio
-```
+#Linux e macOS:
 
-Windows:
-```
-git clone Repositorio
-```
+git clone ..
+
+#Windows:
+
+Git clone ...
 
 ## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
