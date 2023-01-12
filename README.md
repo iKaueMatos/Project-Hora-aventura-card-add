@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+ Projects em React.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<img src="https://i.ytimg.com/vi/ly3m6mv5qvg/maxresdefault.jpg" alt="React.js">
 
-In the project directory, you can run:
+> Basicamente esse repositorio servira como auxilio para estudos em javascript/react.js estou em faze de aprendizado na linguagem e vou estar compartilhando alguns projetos para mostrar minha evolução na linguagem e na biblioteca React.js,basicamente a ideia inicial desse projeto e fazer com que adiciona-mos personagens por meio de formulario que sera preechido pelo o usuario. 
 
-### `npm start`
+### Ajustes e melhorias
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [ ] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
+- [ ] Tarefa 4
+- [ ] Tarefa 5
 
-### `npm test`
+## 💻 Pré-requisitos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+* Você instalou a versão mais recente de IDE: Visual studio Code / Live SASS compiler
+* Você tem uma máquina Windows / Linux / Mac? Todos os sistemas são compativeis.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Instalando <Hora-aventura-card-add>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Para instalar o <hora-aventura-card-add>, siga estas etapas:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#Linux e macOS:
 
-### `npm run eject`
+git clone ..
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#Windows:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Git clone ...
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🤝 Colaboradores
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/98132837?v=4" width="100px;" alt="Kauê de Matos Oliveira"/><br>
+        <sub>
+          <b>Kauê de Matos Oiveira</b>
+        </sub>
+      </a>
+    </td>
+ </tr>
+</table>
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[⬆ Voltar ao topo](#Projects-javascript)<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
