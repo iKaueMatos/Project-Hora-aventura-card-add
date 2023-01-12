@@ -1,7 +1,8 @@
  Projects em React.js
 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhackr.io%2Fblog%2Freact-projects&psig=AOvVaw18_IziXaYPh-hjA69KzTS6&ust=1673573598565000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjIsdHxwPwCFQAAAAAdAAAAABAI" alt="React.js">
+<img src=![image](https://user-images.githubusercontent.com/98132837/211955373-7eaa4e58-72e6-46d7-b1a5-5a95f17abf00.png)
+ alt="React.js">
 
 > Basicamente esse repositorio servira como auxilio para estudos em javascript/react.js estou em faze de aprendizado na linguagem e vou estar compartilhando alguns projetos para mostrar minha evolução na linguagem e na biblioteca React.js,basicamente a ideia inicial desse projeto e fazer com que adiciona-mos personagens por meio de formulario que sera preechido pelo o usuario. 
 
