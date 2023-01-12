@@ -9,8 +9,8 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [] Tarefa 1
-- [] Tarefa 2
+- [ ] Tarefa 1
+- [ ] Tarefa 2
 - [ ] Tarefa 3
 - [ ] Tarefa 4
 - [ ] Tarefa 5
