@@ -1,0 +1,42 @@
+.menu{
+    display: flex;
+    background-color: rgb(233, 215, 59);
+    border-radius: 5px;
+    height: 85px;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+header .menu {
+    display: flex;
+}
+
+
+.logo{
+    width: 280px;
+
+
+}
+
+.menu ul{
+    align-items: center;
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    list-style: none;
+   
+}
+
+.menu a{
+    font-weight: 700;
+    margin:10px;
+    text-decoration: none;
+    color: white;
+    
+}
+
+.menu li{
+    margin: 5px;
+    list-style: none;
+}
