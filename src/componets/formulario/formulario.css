@@ -1,0 +1,14 @@
+.formulario-caixa{
+    display:flex;
+    justify-content: center;
+    margin: 80px 0;
+   
+}
+
+.formulario-caixa form{
+    max-width: 80%;
+    background-color: khaki ;
+    border-radius: 10px;
+    padding: 36px 64px;
+    box-shadow: 8px 8px 16px rgba(179, 177, 177, 0.6);
+}
