@@ -5,6 +5,10 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-size: 16px;
+    font-size: 15px;
+    font-weight: 700;
+
 }
 
 
@@ -12,9 +16,42 @@
 .footer ul li {
     display: inline-block;
     margin-right: 32px;
+    font-size: 15px;
+    font-weight: 700;
 }
 
 .footer ul li:last-child {
     margin-right: 0;
+}
+
+@media(max-width:420px){
+    .footer {
+        background: rgb(241, 164, 48);
+        color: #FFF;
+        flex-direction: row;
+        display: flex;
+        padding: 0;
+        height: 200px;
+        align-items: center;
+        font-size: 13px;
+        
+    }
+
+    .footer ul li {
+       flex-direction: row;
+        margin-left: 32px;
+        width: 40px;
+        display: flex;
+        align-items: center;
+    }
+
+    .footer-p {
+        font-size: 15px;
+        margin-right: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
 }
 

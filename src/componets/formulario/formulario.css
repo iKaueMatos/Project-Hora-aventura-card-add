@@ -16,3 +16,79 @@
 h2{
     color: rgb(255, 255, 255);
 }
+
+.conteudo-formulario{
+    margin: 0;
+}
+
+
+
+
+@media(max-width:438px){
+   
+
+    h2{
+        font-size: 18px;
+    }
+
+    .formulario-caixa{
+        display:flex;
+        justify-items: center;
+        align-items: center;
+     
+        height: 620px;
+        margin: 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        flex-direction: column;
+    }
+
+    .formulario-caixa form{
+        width: 600px;
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+        background-color: rgb(241, 164, 48) ;
+        border-radius: 10px;
+        box-shadow: 8px 8px 16px rgba(179, 177, 177, 0.6);
+    }
+    
+}
+
+
+@media(max-width:320px){
+   
+
+    h2{
+        font-size: 18px;
+    }
+
+    .conteudo-formulario{
+        margin: 0 auto;
+    }
+
+    .formulario-caixa {
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        width: 330px;
+        margin: 0;
+        height: 620px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .formulario-caixa form{
+        margin: 0 auto;
+        justify-content: center;
+        align-items: center;
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+        padding: 5px;
+        background-color: rgb(241, 164, 48) ;
+        border-radius: 10px;
+        box-shadow: 8px 8px 16px rgba(179, 177, 177, 0.6);
+    }
+    
+}

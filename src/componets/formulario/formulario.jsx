@@ -30,7 +30,7 @@ const Formulario = (props) => {
     }
 // mandatory = Obrigatorio
     return(
-        <div>
+        <div className="conteudo-formulario">
             <section className="formulario-caixa">
                     <form onSubmit={AoSalvar}> 
                         <h2 className="Titulo-formulario">Preecha os dados para adicionar seu Personagem!</h2> 

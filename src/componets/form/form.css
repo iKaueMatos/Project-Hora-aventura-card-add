@@ -23,3 +23,72 @@
     border-radius: 10px;
 }
 
+@media(max-width:520px){
+    .form input{
+        width: 300px;
+    }
+
+    .form :placeholder-shown{
+        font-size: 15px;
+    }
+
+    .form label{
+        display:block;
+        margin-bottom: 8px;
+        font-size: 18px;
+        padding: 5px;
+        margin-left: 5px;
+    
+    }
+}
+
+@media(max-width:438px){
+    .form input{
+        width: 300px;
+        height:70px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+
+    .form :placeholder-shown{
+        font-size: 13px;
+    }
+
+    .form label{
+        display: flex;
+        margin-bottom: 2px;
+        font-size: 16px;
+        padding: 5px;
+        margin-left: 5px;
+    
+    }
+}
+
+
+@media(max-width:320px){
+   
+    .form input{
+        width: 230px;
+        height:50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+
+    .form :placeholder-shown{
+        font-size: 13px;
+    }
+
+    .form label{
+        display: flex;
+        margin-bottom: 2px;
+        font-size: 16px;
+        padding: 5px;
+        margin-left: 5px;
+    
+    }
+
+}

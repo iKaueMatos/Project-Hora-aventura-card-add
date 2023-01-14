@@ -15,3 +15,23 @@
     color: rgb(255, 255, 255);
     background-color:rgb(77, 224, 243); ;
 }
+
+@media(max-width:438px){
+    .button button{
+        display: flex;
+        margin-top: 5px;
+        margin: 20px;
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width:320px){
+    .button button{
+        display: flex;
+        margin-top: 8px;
+        margin: 20px;
+        margin-bottom: 30px;
+        
+    }
+        
+    } 

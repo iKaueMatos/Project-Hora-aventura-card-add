@@ -35,7 +35,7 @@ const Rodape = () => {
             <img src="/imagens/logo.png" alt="" />
         </section>
         <section>
-            <p>
+            <p className='footer-p'>
                 Desenvolvido por Kauê de matos oliveira.
             </p>
         </section>
