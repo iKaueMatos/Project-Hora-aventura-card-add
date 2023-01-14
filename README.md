@@ -9,11 +9,11 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] Tarefa 1
-- [ ] Tarefa 2
-- [ ] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Tarefa 1
+- [x] Tarefa 2
+- [x] Tarefa 3
+- [x] Tarefa 4
+- [x] Tarefa 5
 
 ## 💻 Pré-requisitos
 
@@ -28,11 +28,27 @@ Para instalar o <hora-aventura-card-add>, siga estas etapas:
 
 #Linux e macOS:
 
-git clone ..
+git clone git@github.com:iKaueMatos/Project-Hora-aventura-card-add.git
 
 #Windows:
 
-Git clone ...
+Git clone git@github.com:iKaueMatos/Project-Hora-aventura-card-add.git
+
+
+##📱🖥Imagens do projeto:
+
+🖥Desktop:
+![desktop](https://user-images.githubusercontent.com/98132837/212492550-52c9af2d-df68-453e-b609-8dc2eade89fd.png)
+
+<br>
+<br>
+
+📱Mobile:
+
+![celular](https://user-images.githubusercontent.com/98132837/212492567-11a86e15-db97-4301-95fc-6c84d11edf04.png)
+
+
+
 
 ## 🤝 Colaboradores
 
