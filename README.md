@@ -35,9 +35,9 @@ git clone git@github.com:iKaueMatos/Project-Hora-aventura-card-add.git
 Git clone git@github.com:iKaueMatos/Project-Hora-aventura-card-add.git
 
 
-##📱🖥Imagens do projeto:
+#📱🖥Imagens do projeto:
 
-##🖥Desktop:
+#🖥Desktop:
  <br>
 ![desktop](https://user-images.githubusercontent.com/98132837/212492550-52c9af2d-df68-453e-b609-8dc2eade89fd.png)
 
