@@ -1,17 +1,13 @@
 .menu{
     display: flex;
-    background-color: rgb(233, 215, 59);
+    background-color: rgb(241, 164, 48);
     border-radius: 5px;
     height: 85px;
     justify-content: space-between;
     align-items: center;
+  
     
 }
-
-header .menu {
-    display: flex;
-}
-
 
 .logo{
     width: 280px;
@@ -37,6 +33,17 @@ header .menu {
 }
 
 .menu li{
-    margin: 5px;
+    font-size: 21px;
     list-style: none;
+  
 }
+
+.menu :hover{
+    color:rgb(104, 255, 242);
+    transition: 0.1s;
+}
+
+header{
+    width: 100%;
+}
+

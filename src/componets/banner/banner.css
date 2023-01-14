@@ -1,13 +1,39 @@
 
 .banner_hora img{
     display: flex;
-    width: 100%;
+    max-width: 100%;
     border-radius: 20px;
     padding: 7px;
     margin-top:10px;
+    max-width: 100%;
 
 }
 
 
 
+.responsivo{
+    width:100%;
+
+}
+
+@media(max-width:300px){
+    section {
+        width: 100%;
+        height: 100%;
+    }
+
+    .banner_hora img{
+    
+        display: flex;
+        max-width: 100%;
+        border-radius: 20px;
+        padding: 7px;
+        margin-top:10px;
+        width: 100%;
+    }
+
+    .responsivo section{
+        width:100%
+    }
+}
 

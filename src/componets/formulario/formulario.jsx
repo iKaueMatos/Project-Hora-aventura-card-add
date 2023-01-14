@@ -7,30 +7,32 @@ import './formulario.css';
 
 
 
-const Formulario = () => {
+const Formulario = (props) => {
     
-    const times = ['Humanos',
-    'Mostros',
-    'Animais',
-    'Robos',
-    ]
-
-
     const [nome,setNome] = useState('')
     const [TipoDoPoder,setPoder] = useState('')
     const [imagem,setImagem] = useState('')
     const [time,setTime] = useState('')
 
     //Função callback
-    const Aosalvar = (evento) =>{
+    const AoSalvar = (evento) =>{
         evento.preventDefault()
-        console.log("Formulario submetido =>",nome,TipoDoPoder,imagem,time)
+        props.aoPersonagemCadastrado({
+            nome,
+            TipoDoPoder,
+            imagem,
+            time
+        })
+        setNome('')
+        setPoder('')
+        setTime('')
+        setImagem('')
     }
 // mandatory = Obrigatorio
     return(
         <div>
             <section className="formulario-caixa">
-                    <form onSubmit={Aosalvar}> 
+                    <form onSubmit={AoSalvar}> 
                         <h2 className="Titulo-formulario">Preecha os dados para adicionar seu Personagem!</h2> 
                     
                     <Form mandatory={true} label="Nome:" placeholder="Digite seu nome" valor={nome} 
@@ -45,7 +47,7 @@ const Formulario = () => {
                     aoAlterado={valor => setImagem(valor)}
                     />
 
-                    <Lista label="Escolha:" itens={times} valor={time} aoAlterado={valor => setTime(valor)}/>
+                    <Lista label="Escolha:" itens={props.times} valor={time} aoAlterado={valor => setTime(valor)}/>
                     <Button texto="Adicionar" />
                     </form>
             </section>

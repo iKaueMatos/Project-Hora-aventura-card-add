@@ -5,7 +5,7 @@
     border: 0;
     cursor: pointer;
     border-radius: 8px;
-    color:rgb(77, 163, 243);
+    color:rgb(77, 224, 243);
     margin-top: 16px;
     width: 140px;
     height: 40px;
@@ -13,5 +13,5 @@
 
 .button:hover{
     color: rgb(255, 255, 255);
-    background-color:rgb(77, 163, 243) ;
+    background-color:rgb(77, 224, 243); ;
 }

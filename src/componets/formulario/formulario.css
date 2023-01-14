@@ -7,12 +7,12 @@
 
 .formulario-caixa form{
     max-width: 80%;
-    background-color: khaki ;
+    background-color: rgb(241, 164, 48) ;
     border-radius: 10px;
     padding: 36px 64px;
     box-shadow: 8px 8px 16px rgba(179, 177, 177, 0.6);
 }
 
 h2{
-    color: rgb(24, 25, 26);
+    color: rgb(255, 255, 255);
 }
