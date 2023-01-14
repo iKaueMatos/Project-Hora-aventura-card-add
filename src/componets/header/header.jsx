@@ -15,16 +15,16 @@ function header() {
            
             
                 <li className="item">
-                    <a href="#">Inicio</a>
+                    <a href="#inicio">Inicio</a>
                 </li>
                 <li className="item">
-                    <a href="#">GitHub</a>
+                    <a href="https://github.com/iKaueMatos">GitHub</a>
                 </li>
                 <li className="item">
-                     <a href="#">Linkedin</a>
+                     <a href="https://www.linkedin.com/in/kauê-matos-oliveira-a76410213/">Linkedin</a>
                 </li>
                 <li className="item">
-                    <a href="#">Portfolio</a>
+                    <a href="https://ikauematos.github.io/Portfolio/">Portfolio</a>
                 </li>
               </ul>
           </div>

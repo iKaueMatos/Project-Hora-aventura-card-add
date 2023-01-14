@@ -16,7 +16,6 @@
     display: flex;
     list-style: none;
     align-items: center;
-    margin-left: 10px;
 }
 
 
@@ -63,6 +62,40 @@
         font-weight: 700;
     }
 }
+
+
+
+@media(max-width:320px){
+    .navbar{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+    .logo{
+        margin: 0;
+    }
+    
+    .list ul{
+       margin-left: 0 auto;
+       
+    }
+
+
+
+
+
+    } 
+       
+    
+
+
+
+
+
+
+
 
 /* @media (max-width:700px){
     .navbar{
