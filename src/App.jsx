@@ -36,8 +36,6 @@ const times = [
   
 const [personagens,setPersonagens] = useState([])
 const aoNovoPersongemAdicionado = (personagem) =>{
-console.log(personagem)
-personagens.push(personagem)
 setPersonagens([...personagens,personagem])
 }
 
