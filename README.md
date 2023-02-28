@@ -28,7 +28,7 @@ Para instalar o <hora-aventura-card-add>, siga estas etapas:
 
 #Linux e macOS:
 
-git clone git@github.com:iKaueMatos/Project-Hora-aventura-card-add.git
+Git clone git@github.com:iKaueMatos/Project-Hora-aventura-card-add.git
 
 #Windows:
 
